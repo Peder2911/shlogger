@@ -1,0 +1,2 @@
+
+bash --rcfile test.sh
